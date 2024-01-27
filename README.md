@@ -1,1 +1,1 @@
-Se crea el archivo README
+- Se crea el archivo README
